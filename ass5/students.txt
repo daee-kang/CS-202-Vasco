@@ -1,0 +1,15 @@
+John Smith 1234 U
+Patrick Star 3451 U
+Not Sure 1111 P Smartest_Man_In_The_World
+Colonel Mustard 2316 P A_Game_Of_Clue
+Mad Hatter 8762 P Tea_Time
+Rick Sanchez 2468 P None
+Timmy Turner 3416 U
+Tony Tiger 3461 G None
+Stewie Griffin 2989 P Victory_Is_Mine
+Bam Margera 5634 G Viva_La_Bam
+Glen Quagmire 1023 U
+Sid Vicious 3876 G My_Way
+Tommy Ramone 2718 G Sheena_Is_A_Punk_Rocker
+John Lenon 2671 G Imagine
+Kit Kat 9961 U
